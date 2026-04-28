@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "Zotero Vim Half Scroll",
+  "version": "0.1.8",
+  "description": "Use Cmd-D/Cmd-U for half-page scrolling in Zotero Reader.",
+  "author": "JimmyJuan",
+  "homepage_url": "https://github.com/JimmyJuan/zotero-vim-half-scroll",
+  "applications": {
+    "zotero": {
+      "id": "zotero-vim-half-scroll@jimmyjuan.github.io",
+      "update_url": "https://github.com/JimmyJuan/zotero-vim-half-scroll/releases/latest/download/update.json",
+      "strict_min_version": "8.0",
+      "strict_max_version": "8.0.*"
+    }
+  }
+}
