@@ -3,8 +3,8 @@
     "zotero-vim-half-scroll@jimmyjuan.github.io": {
       "updates": [
         {
-          "version": "0.1.8",
-          "update_link": "https://github.com/JimmyJuan/zotero-vim-half-scroll/releases/download/v0.1.8/zotero-vim-half-scroll-0.1.8.xpi",
+          "version": "0.1.9",
+          "update_link": "https://raw.githubusercontent.com/JimmyJuan/zotero-vim-half-scroll/main/dist/zotero-vim-half-scroll-0.1.9.xpi",
           "applications": {
             "zotero": {
               "strict_min_version": "8.0",

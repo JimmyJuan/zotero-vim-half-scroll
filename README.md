@@ -16,7 +16,11 @@ The plugin works in Zotero Reader tabs and standalone Reader windows. It handles
 
 ## Install
 
-Download the `.xpi` file from the latest GitHub Release, then install it in Zotero:
+Download the packaged `.xpi` file:
+
+https://raw.githubusercontent.com/JimmyJuan/zotero-vim-half-scroll/main/dist/zotero-vim-half-scroll-0.1.9.xpi
+
+Then install it in Zotero:
 
 1. Open Zotero.
 2. Go to `Tools` -> `Add-ons`.
